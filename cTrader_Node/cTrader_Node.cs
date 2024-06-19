@@ -33,6 +33,8 @@ namespace cAlgo.Robots
             //Server that handles all Connections.
             public class Server_Node()
             {
+                //Default Constructor
+                public Server_Node(){}
 
             }
 
