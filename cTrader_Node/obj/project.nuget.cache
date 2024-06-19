@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qGHFGjyROu0XtgkLMkzhCiuNMA9tLllcTKLVJ36IZLGJ/LLJt3Q3HhlwDRTbZvhSHQ93Pxu6LN+p08LExcippg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Documents\\cAlgo\\Sources\\Robots\\cTrader_Node\\cTrader_Node\\cTrader_Node.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\ctrader.automate\\1.0.9\\ctrader.automate.1.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
